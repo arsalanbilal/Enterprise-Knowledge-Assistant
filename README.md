@@ -86,7 +86,7 @@ File Upload / URL
 
 | Component | Choice | Reason |
 |---|---|---|
-| LLM | Gemini 1.5 Flash | Free tier, 1M token context, fast |
+| LLM | Gemini 2.5 Flash | Free tier, 1M token context, fast |
 | Embeddings | `all-MiniLM-L6-v2` | Lightweight, CPU-friendly, strong semantic quality |
 | Vector DB | ChromaDB (persistent) | Open-source, disk-backed (survives restarts), cosine similarity built-in |
 | Keyword search | BM25 via LangChain | Catches exact terms, codes, and policy names that semantic search misses |
