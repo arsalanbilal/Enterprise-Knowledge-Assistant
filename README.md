@@ -138,10 +138,10 @@ Each result reports: answer preview, rewritten query, sources found, keyword hit
 ##📁 Project Structure
 enterprise-knowledge-assistant/
 │
-├── assistant.py              # Main Streamlit application
-├── requirements.txt          # Python dependencies
-├── Dockerfile                # Docker image configuration
-├── docker-compose.yaml       # Docker Compose configuration
+├── assistant.py              
+├── requirements.txt          
+├── Dockerfile                
+├── docker-compose.yaml       
 ├── README.md
 ```
 
