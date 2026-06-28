@@ -135,14 +135,14 @@ The built-in evaluation runs 5 test cases automatically against the loaded docum
 Each result reports: answer preview, rewritten query, sources found, keyword hit rate, hallucination check, no-info handling, and latency. Results are downloadable as JSON.
 
 ---
-
-## 📁 Project Structure
-
-```
+##📁 Project Structure
 enterprise-knowledge-assistant/
-├── assistant.py          # Main application (single-file)
-├── requirements.txt      # Python dependencies
-└── README.md             # This file
+│
+├── assistant.py              # Main Streamlit application
+├── requirements.txt          # Python dependencies
+├── Dockerfile                # Docker image configuration
+├── docker-compose.yaml       # Docker Compose configuration
+├── README.md
 ```
 
 ---
