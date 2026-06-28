@@ -137,7 +137,7 @@ Each result reports: answer preview, rewritten query, sources found, keyword hit
 ---
 ##📁 Project Structure
 enterprise-knowledge-assistant/
-│
+
 ├── assistant.py              
 ├── requirements.txt          
 ├── Dockerfile                
