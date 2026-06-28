@@ -197,7 +197,7 @@ Results can be downloaded as **JSON** for submission.
 
 **HR policy question:**
 > "What is the employee leave policy?"
-> → "Employees are eligible for 24 paid leaves annually. [Source 1: HR_Policy.pdf, Page 12]"
+> → "Employees are eligible for 30 paid leaves annually. [Source 1: HR_Policy.pdf, Page 12]"
 
 **Follow-up (conversation memory):**
 > "What about sick leave?"
